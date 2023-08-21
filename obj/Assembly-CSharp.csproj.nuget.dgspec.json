@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Unity\\Projects\\Bristled Birds\\Assembly-CSharp.csproj": {}
+    "c:\\Unity\\Projects\\BristledBirds\\Assembly-CSharp.csproj": {}
   },
   "projects": {
-    "c:\\Unity\\Projects\\Bristled Birds\\Assembly-CSharp.csproj": {
+    "c:\\Unity\\Projects\\BristledBirds\\Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Unity\\Projects\\Bristled Birds\\Assembly-CSharp.csproj",
+        "projectUniqueName": "c:\\Unity\\Projects\\BristledBirds\\Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "c:\\Unity\\Projects\\Bristled Birds\\Assembly-CSharp.csproj",
+        "projectPath": "c:\\Unity\\Projects\\BristledBirds\\Assembly-CSharp.csproj",
         "packagesPath": "C:\\Users\\mleys\\.nuget\\packages\\",
-        "outputPath": "c:\\Unity\\Projects\\Bristled Birds\\obj\\",
+        "outputPath": "c:\\Unity\\Projects\\BristledBirds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mleys\\AppData\\Roaming\\NuGet\\NuGet.Config"

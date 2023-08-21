@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHUyKUm2yecJEeM8gVCCFqyaWc1Hp6Zi8Z/1pIJqXargNT+GqfBn2nmq62hXnrsBud/sCXMnx4XvXVqPbGhCfQ==",
+  "dgSpecHash": "esBJNUDXd0NJaauV9fAh8ot9k1RtmA9vrQsvcABbc5cnz+qM95LK0SKEsaa2jSpNyWUKCv2ZuuA7tJjJvv6Hgw==",
   "success": true,
-  "projectFilePath": "c:\\Unity\\Projects\\Bristled Birds\\Assembly-CSharp.csproj",
+  "projectFilePath": "c:\\Unity\\Projects\\BristledBirds\\Assembly-CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
